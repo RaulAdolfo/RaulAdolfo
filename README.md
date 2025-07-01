@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou Raul Adolfo e estou na jornada para me tornar um desenvolvedor C#/.NET 💻
+ <div>
+  <a href="https://github.com/RaulAdolfo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulAdolfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAdolfo&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-<!--
-**RaulAdolfo/RaulAdolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet)](https://skillicons.dev)
+  ##
+ 
+<div> 
+   <a href="https://www.linkedin.com/in/raul-c%C3%A9sar-adolfo-b19997225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:raulcesara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
