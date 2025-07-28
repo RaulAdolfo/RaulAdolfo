@@ -1,7 +1,7 @@
 ## Olá, sou Raul Adolfo e estou na jornada para me tornar um desenvolvedor C#/.NET 💻
 <div>
   <a href="https://github.com/RaulAdolfo">
- <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulAdolfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulAdolfo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulAdolfo&layout=compact&langs_count=16&theme=dracula"/>
 </div> 
 
